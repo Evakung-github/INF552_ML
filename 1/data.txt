@@ -1,0 +1,3749 @@
+{
+    "f": [
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "English",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Papiamento",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Spanish",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Balochi",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Turkmenian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Uzbek",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Ambo",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Chokwe",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Kongo",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Luchazi",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Luimbenganguela",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Luvale",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Mbundu",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Nyanekankhumbi",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Ovimbundu",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Greek",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Macedonian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "French",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Portuguese",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Spanish",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "English",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Hindi",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Indian Languages",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Italian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Azerbaijani",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Tongan",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Creole English",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Arabic",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Canton Chinese",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "German",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Greek",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Italian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "SerboCroatian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Vietnamese",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Czech",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Hungarian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Polish",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Romanian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "SerboCroatian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Slovene",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Turkish",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Armenian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Lezgian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Russian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Swahili",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Arabic",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Italian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Turkish",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Adja",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Aizo",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Bariba",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Fon",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Ful",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Joruba",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Somba",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Busansi",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Dagara",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Dyula",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Ful",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Gurma",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Mossi",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Chakma",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Garo",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Khasi",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Marma",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Santhali",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Tripuri",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Macedonian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Romani",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Turkish",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "English",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Creole English",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Creole French",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Polish",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Ukrainian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Garifuna",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Maya Languages",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Spanish",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Guaran",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "German",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Indian Languages",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Italian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Japanese",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Bajan",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Chinese",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "English",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "MalayEnglish",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Asami",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Nepali",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Khoekhoe",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Ndebele",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "San",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Shona",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Tswana",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Banda",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Gbaya",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Mandjia",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Mbum",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Ngbaka",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Sara",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Chinese",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Dutch",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Eskimo Languages",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "German",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Italian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Polish",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Portuguese",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Punjabi",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Spanish",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Ukrainian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Malay",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Aimar",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Araucan",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Rapa nui",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Dong",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Hui",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Mantu",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Miao",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Mongolian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Puyi",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Tibetan",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Tujia",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Uighur",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Yi",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Zhuang",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Akan",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Gur",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Kru",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Malinke",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "SouthMande",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Bamilekebamum",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Duala",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Fang",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Ful",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Maka",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Mandara",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Masana",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Tikar",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Boa",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Chokwe",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Kongo",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Luba",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Mongo",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Ngala and Bangi",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Rundi",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Rwanda",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Teke",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Zande",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Kongo",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Mbete",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Mboshi",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Punu",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Sango",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Teke",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "English",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Arawakan",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Caribbean",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Chibcha",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Creole English",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "ComorianArabic",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "ComorianFrench",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Comorianmadagassi",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "ComorianSwahili",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Crioulo",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Chibcha",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Chinese",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Creole English",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Chinese",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "German",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Hungarian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Moravian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Polish",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Romani",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Silesiana",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Slovak",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Greek",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Italian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Polish",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Southern Slavic Languages",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Turkish",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Afar",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Somali",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Creole English",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Creole French",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Arabic",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "English",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "German",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Norwegian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Swedish",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Turkish",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Creole French",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Berberi",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Ketua",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Sinaberberi",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Afar",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Bilin",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Hadareb",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Saho",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Tigre",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Basque",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Catalan",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Galecian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Belorussian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Finnish",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Russian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Ukrainian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Amhara",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Gurage",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Oromo",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Sidamo",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Somali",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Tigrinja",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Walaita",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Estonian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Russian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Saame",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Hindi",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Arabic",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Italian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Portuguese",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Spanish",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Turkish",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Kosrean",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Mortlock",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Pohnpei",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Trukese",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Wolea",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Yap",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Fang",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Mbete",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Mpongwe",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Punusiranzebi",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Gaeli",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Kymri",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Abhyasi",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Armenian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Azerbaijani",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Osseetti",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Russian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Akan",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Ewe",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Gaadangme",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Gurma",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Joruba",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Mossi",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Arabic",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Ful",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Kissi",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Kpelle",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Loma",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Malinke",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Susu",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Yalunka",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Creole French",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Diola",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Ful",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Malinke",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Soninke",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Wolof",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Balante",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Crioulo",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Ful",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Malinke",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Mandyako",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Bubi",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Fang",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Turkish",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Creole English",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Cakchiquel",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Kekch",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Mam",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Quich",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Creole French",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Indian Languages",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Japanese",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Korean",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Philippene Languages",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Arawakan",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Caribbean",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Creole English",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Canton Chinese",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Chiu chau",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Fukien",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Hakka",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Creole English",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Garifuna",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Miskito",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Slovene",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Haiti Creole",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "German",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Romani",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Romanian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "SerboCroatian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Slovak",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Bali",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Banja",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Batakki",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Bugi",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Javanese",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Madura",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Minangkabau",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Sunda",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Asami",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Bengali",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Gujarati",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Kannada",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Malajalam",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Marathi",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Orija",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Punjabi",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Tamil",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Telugu",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Urdu",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Arabic",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Azerbaijani",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Bakhtyari",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Balochi",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Gilaki",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Kurdish",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Luri",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Mazandarani",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Turkmenian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Assyrian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Azerbaijani",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Kurdish",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Persian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "English",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Russian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Albaniana",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "French",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Friuli",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "German",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Romani",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Sardinian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Slovene",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Creole English",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Hindi",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Armenian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Circassian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Ainu",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Chinese",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "English",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Korean",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Philippene Languages",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "German",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Russian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Tatar",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Ukrainian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Uzbek",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Gusii",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Kalenjin",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Kamba",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Kikuyu",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Luhya",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Luo",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Masai",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Meru",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Nyika",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Turkana",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Kazakh",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Tadzhik",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Tatar",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Ukrainian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Uzbek",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Chinese",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Tam",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Vietnamese",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Tuvalu",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Creole English",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Chinese",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "English",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "LaoSoung",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Monkhmer",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Thai",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Armenian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "French",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Bassa",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Gio",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Grebo",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Kpelle",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Kru",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Loma",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Malinke",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Mano",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Berberi",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Creole French",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Italian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Turkish",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Mixed Languages",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Zulu",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Belorussian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Polish",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Russian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Ukrainian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Italian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Portuguese",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Belorussian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Lithuanian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Polish",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Russian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Ukrainian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Canton Chinese",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "English",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Mandarin Chinese",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Berberi",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "English",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Italian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Monegasque",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Bulgariana",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Gagauzi",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Russian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Ukrainian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "English",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Mixtec",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Nhuatl",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Otom",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Yucatec",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Zapotec",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Albaniana",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Romani",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "SerboCroatian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Turkish",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Bambara",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Ful",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Senufo and Minianka",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Songhai",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Soninke",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Tamashek",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Chin",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Kachin",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Karen",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Kayah",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Mon",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Rakhine",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Shan",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Bajad",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Buryat",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Dariganga",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Dorbet",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Kazakh",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Carolinian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Chamorro",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Chinese",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Korean",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Philippene Languages",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Chuabo",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Lomwe",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Makua",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Marendje",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Nyanja",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Ronga",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Sena",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Shona",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Tsonga",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Tswa",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Ful",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Hassaniya",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Soninke",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Tukulor",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Wolof",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Zenaga",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Creole French",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Bhojpuri",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Creole French",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "French",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Hindi",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Marathi",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Tamil",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Lomwe",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Ngoni",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Yao",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Chinese",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Dusun",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "English",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Iban",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Tamil",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Mahor",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Malagasy",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Afrikaans",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Caprivi",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "German",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Herero",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Kavango",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Nama",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Ovambo",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "San",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Malenasian Languages",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Polynesian Languages",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Ful",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Hausa",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Kanuri",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Songhaizerma",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Tamashek",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Bura",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Edo",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Ful",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Hausa",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Ibibio",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Ibo",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Ijo",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Joruba",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Kanuri",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Tiv",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Creole English",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Miskito",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Sumo",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Niue",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Arabic",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Fries",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Turkish",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Danish",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "English",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Saame",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Swedish",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Bhojpuri",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Hindi",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Maithili",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Newari",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Tamang",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Tharu",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Chinese",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Kiribati",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Tuvalu",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Maori",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Balochi",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Balochi",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Brahui",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Hindko",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Pashto",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Punjabi",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Saraiki",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Sindhi",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Arabic",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Creole English",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Cuna",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Embera",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Guaym",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Pitcairnese",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Bicol",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Cebuano",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Hiligaynon",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Ilocano",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Maguindanao",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Maranao",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Pampango",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Pangasinan",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Waraywaray",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Chinese",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Philippene Languages",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Malenasian Languages",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Papuan Languages",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Belorussian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "German",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Ukrainian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "English",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Chinese",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "German",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Portuguese",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Arabic",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Hebrew",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Chinese",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Tahitian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Urdu",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Chinese",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Comorian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Creole French",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Malagasy",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Tamil",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "German",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Hungarian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "SerboCroatian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Ukrainian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Avarian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Bashkir",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Belorussian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Chechen",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Chuvash",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Kazakh",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Mari",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Mordva",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Tatar",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Udmur",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Ukrainian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Bari",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Beja",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Chilluk",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Dinka",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Fur",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Lotuko",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Nubian Languages",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Nuer",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Zande",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Diola",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Ful",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Malinke",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Serer",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Soninke",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Russian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Malenasian Languages",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Papuan Languages",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Polynesian Languages",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Bullomsherbro",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Ful",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Konovai",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Kuranko",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Limba",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Mende",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Temne",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Yalunka",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Nahua",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Crioulo",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "French",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Hindi",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Sranantonga",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Czech and Moravian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Hungarian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Romani",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Ukrainian and Russian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Hungarian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "SerboCroatian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Arabic",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Finnish",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Norwegian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Southern Slavic Languages",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Spanish",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Zulu",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Seselwa",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Kurdish",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Gorane",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Hadjarai",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Kanembornu",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Mayokebbi",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Ouaddai",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Sara",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Tandjile",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Ane",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Gurma",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Kotokoli",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Moba",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Naudemba",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Watyi",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Chinese",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Khmer",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Kuy",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Lao",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Malay",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Russian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Uzbek",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Tokelau",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Kazakh",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Russian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Uzbek",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Sunda",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Creole English",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "English",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Hindi",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "ArabicFrench",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "ArabicFrenchEnglish",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Arabic",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Kurdish",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Kiribati",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Ami",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Atayal",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Hakka",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Min",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Paiwan",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Chaga and Pare",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Gogo",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Ha",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Haya",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Hehet",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Luguru",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Makonde",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Nyakusa",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Nyamwesi",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Shambala",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Acholi",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Ganda",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Gisu",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Kiga",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Lango",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Lugbara",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Nkole",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Rwanda",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Soga",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Teso",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Belorussian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Bulgariana",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Hungarian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Polish",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Romanian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Russian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Chinese",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "French",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "German",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Italian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Japanese",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Korean",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Polish",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Portuguese",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Spanish",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Tagalog",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Vietnamese",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Karakalpak",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Kazakh",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Russian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Tadzhik",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Tatar",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Creole English",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Goajiro",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Warrau",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "French",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Spanish",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Chinese",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Khmer",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Man",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Miao",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Muong",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Nung",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Thai",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Tho",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Futuna",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Wallis",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "SamoanEnglish",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Soqutri",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Albaniana",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Hungarian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Macedonian",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Romani",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Slovak",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Ndebele",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Northsotho",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Southsotho",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Swazi",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Tsonga",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Tswana",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Venda",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Bemba",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Chewa",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Lozi",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Nsenga",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Nyanja",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Tongan",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Ndebele",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Nyanja",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "IsOfficial",
+            "Language": "Shona",
+            "TABLE": "countrylanguage"
+        },
+        {
+            "COLUMN": "District",
+            "ID": "72",
+            "TABLE": "city"
+        },
+        {
+            "COLUMN": "Name",
+            "ID": "84",
+            "TABLE": "city"
+        },
+        {
+            "COLUMN": "District",
+            "ID": "84",
+            "TABLE": "city"
+        }
+    ]
+}
