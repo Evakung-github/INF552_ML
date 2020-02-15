@@ -70,13 +70,73 @@ def plot(result,centroid):
     plt.show()
 
 
+train = np.array(data).T
+
+#result,centroid = kmeans(train,3)
+#plot(result,centroid)
+#
+#    
+#r = np.random.randint(low = 1000,size = (150,3))
+#r = r.T / r.sum(axis = 1)
+#
+#rc = r.sum(axis = 1)
+#
+#(np.array(data)-mu).shape
+#
+#mu = np.array([(r[0]*data.X).mean(),(r[0]*data.Y).mean()])
+#sigma = np.matmul(((r[0]*train).T-mu).T,((r[0]*train).T-mu))/150
+#
+#
+#
+#c = -0.5 * np.diag((train.T-mu)@np.linalg.inv(sigma)@(train.T-mu).T)
+#p = 1/(2*np.pi)*(np.linalg.det(sigma)**-0.5)*np.exp(c)
 
 
-result,centroid = kmeans(train,3)
-plot(result,centroid)
 
+def p_x_ci(train,mu,cov_matrix):
+    dim = cov_matrix.shape[0]
+    cov_inverse = np.linalg.inv(cov_matrix)
     
-def Em
+    c = -0.5 * np.diag((train.T-mu)@cov_inverse@(train.T-mu).T)
+    p = ((2*np.pi)**(-dim/2))*(np.linalg.det(cov_matrix)**-0.5)*np.exp(c)
+    return p
+
+def p_c_xi(rc,p):
+    p = rc * p.T
+    deno = p.sum(axis = 1)
+    return p.T/deno
+
+
+def EM(train,k):
+    initial = np.random.randint(low = 1000,size = (train.shape[1],k))
+    pre_rc = np.array([0.3,0.2,0.5])
+    r = initial.T / initial.sum(axis = 1)
+    rc = r.sum(axis = 1)
+    count = 0
+
+    while sorted(pre_rc) != sorted(rc):
+        print(count)
+        
+        p = []
+        for i in range(k):
+            mu = np.array([(r[i]*train[0]).mean(),(r[i]*train[1]).mean()])
+            cov_matrix = np.matmul(((r[i]*train).T-mu).T,((r[i]*train).T-mu))/train.shape[1]
+            p.append(p_x_ci(train,mu,cov_matrix))
+        
+        p = np.array(p)
+        pre_rc,r = rc,p_c_xi(rc,p)
+        rc = r.sum(axis = 1)
+        count+=1
+        if count >5:
+            return r
+    return r
+    
+r = EM(train,3)
+
+r.argmax(axis = 0)
+
+data['cluster'] = r.argmax(axis=0)
+result = data
 
 fig, ax = plt.subplots()
 #result.plot.scatter(x = "X",y="Y",c = 'cluster',cmap = cmap,norm=norm)   
