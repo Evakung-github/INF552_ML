@@ -76,7 +76,7 @@ result,centroid = kmeans(train,3)
 plot(result,centroid)
 
     
-
+def Em
 
 fig, ax = plt.subplots()
 #result.plot.scatter(x = "X",y="Y",c = 'cluster',cmap = cmap,norm=norm)   
