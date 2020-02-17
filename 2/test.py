@@ -72,8 +72,8 @@ def plot(result,centroid):
 
 train = np.array(data).T
 
-#result,centroid = kmeans(train,3)
-#plot(result,centroid)
+result,centroid = kmeans(train,3)
+plot(result,centroid)
 #
 #    
 #r = np.random.randint(low = 1000,size = (150,3))
