@@ -37,7 +37,7 @@ def kmeans(train,k):
 
     count = 0
     while sorted(prev_cluster) != sorted(cur_cluster):
-        print(count)
+        #print(count)
         for i in range(len(train)):
             distance = float('inf')
             m = k + 1
@@ -52,8 +52,8 @@ def kmeans(train,k):
         count += 1
     return [train,cur_cluster]
 
-
-
+k = kmeans(train,3)
+k[1]
 
 
 def plot(result,centroid):
@@ -65,6 +65,12 @@ def plot(result,centroid):
     i = 1
     for c in centroid:
         a = ax.scatter(c[0],c[1],marker = 'X',s = 100,c = 'black')#,label = 'centroid')# '+str(i))
+        label = "["+str(round(c[0],2))+","+str(round(c[1],2))+"]"
+        ax.annotate(label, # this is the text
+                    (c[0],c[1]), # this is the point to label
+                    textcoords="offset points", # how to position the text
+                    xytext=(0,10), # distance from text to points (x,y)
+                    ha='center')
         i+=1
     ax.legend([a],['centroid'])
     plt.show()

@@ -4,7 +4,9 @@ Created on Sun Feb 16 11:38:23 2020
 
 @author: eva
 """
-
+#ref
+#https://towardsdatascience.com/gaussian-mixture-modelling-gmm-833c88587c7f
+#http://www.blackarbs.com/blog/intro-to-expectation-maximization-k-means-gaussian-mixture-models-with-python-sklearn/3/20/2017
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -16,9 +18,7 @@ data.columns = ["X","Y"]
 cmap = mpl.colors.ListedColormap(["navy", "crimson", "limegreen"])
 norm = mpl.colors.BoundaryNorm(np.arange(-0.5,3), cmap.N) 
 
-initial = np.random.randint(low = 1000,size = (train.shape[0],3))
-pre_rc = np.array([0.3,0.2,0.5])
-r = initial.T / initial.sum(axis = 1)
+
 
 def p_x_ci(train,mu,cov_matrix):
     """
@@ -34,7 +34,7 @@ def p_x_ci(train,mu,cov_matrix):
     p = ((2*np.pi)**(-dim/2))*(np.linalg.det(cov_matrix)**-0.5)*np.exp(c)
     return p
 
-p_x_ci(np.array([[1,2]]),a,b)
+#p_x_ci(np.array([[1,2]]),a,b)
 
 
 
@@ -96,7 +96,7 @@ def EM(train,k):
     count = 0
     pre_mlh = float('inf')
     mlh = 0
-    while abs(pre_mlh-mlh)>0.001:
+    while abs(pre_mlh-mlh)>0.000001:
         print(count)
         m = []
         c = []
@@ -116,20 +116,29 @@ def EM(train,k):
         print(mlh)
 #        if count >1:
 #            return m,c,rc,r
-    return r
+    return r,m,c
 
 result = data
+
 h = EM(data[['X','Y']],3)
 
-
-
-
-result['cluster'] = h.argmax(axis = 0)
+result['cluster'] = h[0].argmax(axis = 0)
 
 
 fig, ax = plt.subplots()
 #result.plot.scatter(x = "X",y="Y",c = 'cluster',cmap = cmap,norm=norm)   
 ax.scatter(result["X"],result["Y"],c = result['cluster'],cmap = cmap,s=20)
+def plot(result,centroid):
+    k = len(centroid)
+    colors = list(mpl.colors.TABLEAU_COLORS)
+    cmap = mpl.colors.ListedColormap(colors[:k])
+    fig,ax = plt.subplots()
+    ax.scatter(result["X"],result["Y"],c = result['cluster'],cmap = cmap,s=20)
+    i = 1
+    for c in centroid:
+        a = ax.scatter(c[0],c[1],marker = 'X',s = 100,c = 'black')#,label = 'centroid')# '+str(i))
+        i+=1
+    ax.legend([a],['centroid'])
+    plt.show()
 
-
-
+plot(result,h[1])

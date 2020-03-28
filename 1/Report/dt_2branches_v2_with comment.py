@@ -110,8 +110,8 @@ def build_tree(df_X,df_Y):
             min_col = col
             min_condition = condition
             min_group = groups
-            min_info_gain = entropy
-    if min_info_gain == 1.1:
+            min_entropy = entropy
+    if min_entropy == 1.1:
         # All attributes have the same values, but different labels.
         # Return the majority of labels as result.
         # If the number of each label are equal, then return 'half' and randomly choose one when predicting.
